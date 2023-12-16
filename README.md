@@ -1,1 +1,1 @@
-# SQL-Project-Car_dekho
+# SQL-Projects
